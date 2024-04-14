@@ -1,0 +1,18 @@
+.header {
+    width: 100vw;
+    padding-top: 55px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #777777;
+    max-width: 1442px;
+    border-radius: var(--border-radius);
+}
+
+.logo {
+    font-size: 96px;
+    line-height: 1.4;
+}
